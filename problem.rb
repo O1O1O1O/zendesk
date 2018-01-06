@@ -24,5 +24,3 @@ class Problem
   end
 end
 
-
-

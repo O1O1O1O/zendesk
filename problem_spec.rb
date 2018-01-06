@@ -40,7 +40,7 @@ describe Problem do
     end
   end
 
-    describe "#leaves" do
+  describe "#leaves" do
     subject {
       problem.leaves
     }
